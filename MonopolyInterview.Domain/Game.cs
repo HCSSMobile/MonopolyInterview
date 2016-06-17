@@ -25,29 +25,16 @@ namespace MonopolyInterview.Domain
 
         private void BuildBoard()
         {
-            startingSquare = new GoSquare();
+            startingSquare = new Square("Square 1");
             var currentSquare = startingSquare;
-            var jailSquare = new JailSquare();
-            for(var i = 1; i <= 40; i++)
+            for (var i = 1; i <= 40; i++)
             {
-                switch(i)
-                {
-                    case 4: currentSquare.NextSquare = new IncomeTaxSquare();
-                        break;
-                    case 10: currentSquare.NextSquare = jailSquare;
-                        break;
-                    case 30: currentSquare.NextSquare = new GoToJailSquare(jailSquare);
-                        break;
-                    case 38: currentSquare.NextSquare = new LuxuryTaxSquare();
-                        break;
-                    default:
-                        currentSquare.NextSquare = new Square("Square " + i);
-                        break;
-                }
+                currentSquare.NextSquare = new Square("Square " + i);
                 currentSquare = currentSquare.NextSquare;
             }
             currentSquare.NextSquare = startingSquare;
         }
+
 
         public string PlayRound()
         {

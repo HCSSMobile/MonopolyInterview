@@ -1,0 +1,504 @@
+How many players?: 4
+How many rounds?: 100
+Player 1 rolled a 8 current square is now Square 8, balance is $1500
+Player 2 rolled a 9 current square is now Square 9, balance is $1500
+Player 3 rolled a 6 current square is now Square 6, balance is $1500
+Player 4 rolled a 8 current square is now Square 8, balance is $1500
+
+Player 1 rolled a 11 current square is now Square 19, balance is $1500
+Player 2 rolled a 11 current square is now Square 20, balance is $1500
+Player 3 rolled a 8 current square is now Square 14, balance is $1500
+Player 4 rolled a 4 current square is now Square 12, balance is $1500
+
+Player 1 rolled a 12 current square is now Square 31, balance is $1500
+Player 2 rolled a 4 current square is now Square 24, balance is $1500
+Player 3 rolled a 6 current square is now Square 20, balance is $1500
+Player 4 rolled a 5 current square is now Square 17, balance is $1500
+
+Player 1 rolled a 11 current square is now Square 1, balance is $1700
+Player 2 rolled a 9 current square is now Square 33, balance is $1500
+Player 3 rolled a 6 current square is now Square 26, balance is $1500
+Player 4 rolled a 2 current square is now Square 19, balance is $1500
+
+Player 1 rolled a 7 current square is now Square 8, balance is $1700
+Player 2 rolled a 8 current square is now Go Square, balance is $1700
+Player 3 rolled a 5 current square is now Square 31, balance is $1500
+Player 4 rolled a 11 current square is now Jail Square, balance is $1500
+
+Player 1 rolled a 6 current square is now Square 14, balance is $1700
+Player 2 rolled a 4 current square is now Income Tax Square, balance is $1530
+Player 3 rolled a 7 current square is now Luxury Tax Square, balance is $1425
+Player 4 rolled a 11 current square is now Jail Square, balance is $1500
+
+Player 1 rolled a 5 current square is now Square 19, balance is $1700
+Player 2 rolled a 6 current square is now Jail Square, balance is $1530
+Player 3 rolled a 2 current square is now Square 40, balance is $1425
+Player 4 rolled a 6 current square is now Jail Square, balance is $1500
+
+Player 1 rolled a 7 current square is now Square 26, balance is $1700
+Player 2 rolled a 7 current square is now Square 17, balance is $1530
+Player 3 rolled a 4 current square is now Square 3, balance is $1625
+Player 4 rolled a 10 current square is now Square 20, balance is $1500
+
+Player 1 rolled a 9 current square is now Square 35, balance is $1700
+Player 2 rolled a 11 current square is now Square 28, balance is $1530
+Player 3 rolled a 9 current square is now Square 12, balance is $1625
+Player 4 rolled a 12 current square is now Square 32, balance is $1500
+
+Player 1 rolled a 3 current square is now Luxury Tax Square, balance is $1625
+Player 2 rolled a 6 current square is now Square 34, balance is $1530
+Player 3 rolled a 7 current square is now Square 19, balance is $1625
+Player 4 rolled a 12 current square is now Square 3, balance is $1700
+
+Player 1 rolled a 8 current square is now Square 5, balance is $1825
+Player 2 rolled a 3 current square is now Square 37, balance is $1530
+Player 3 rolled a 10 current square is now Square 29, balance is $1625
+Player 4 rolled a 8 current square is now Square 11, balance is $1650
+
+Player 1 rolled a 4 current square is now Square 9, balance is $1825
+Player 2 rolled a 7 current square is now Square 3, balance is $1730
+Player 3 rolled a 12 current square is now Go Square, balance is $1825
+Player 4 rolled a 10 current square is now Square 21, balance is $1650
+
+Player 1 rolled a 8 current square is now Square 17, balance is $1825
+Player 2 rolled a 8 current square is now Square 11, balance is $1730
+Player 3 rolled a 7 current square is now Square 7, balance is $1825
+Player 4 rolled a 11 current square is now Square 32, balance is $1650
+
+Player 1 rolled a 9 current square is now Square 26, balance is $1825
+Player 2 rolled a 8 current square is now Square 19, balance is $1730
+Player 3 rolled a 7 current square is now Square 14, balance is $1825
+Player 4 rolled a 6 current square is now Luxury Tax Square, balance is $1575
+
+Player 1 rolled a 4 current square is now Jail Square, balance is $1825
+Player 2 rolled a 11 current square is now Jail Square, balance is $1730
+Player 3 rolled a 5 current square is now Square 19, balance is $1825
+Player 4 rolled a 12 current square is now Square 9, balance is $1775
+
+Player 1 rolled a 10 current square is now Jail Square, balance is $1825
+Player 2 rolled a 9 current square is now Jail Square, balance is $1730
+Player 3 rolled a 8 current square is now Square 27, balance is $1825
+Player 4 rolled a 8 current square is now Square 17, balance is $1775
+
+Player 1 rolled a 8 current square is now Jail Square, balance is $1825
+Player 2 rolled a 7 current square is now Jail Square, balance is $1730
+Player 3 rolled a 8 current square is now Square 35, balance is $1825
+Player 4 rolled a 11 current square is now Square 28, balance is $1775
+
+Player 1 rolled a 6 current square is now Square 16, balance is $1775
+Player 2 rolled a 5 current square is now Square 15, balance is $1680
+Player 3 rolled a 5 current square is now Square 40, balance is $1825
+Player 4 rolled a 9 current square is now Square 37, balance is $1775
+
+Player 1 rolled a 10 current square is now Square 26, balance is $1775
+Player 2 rolled a 10 current square is now Square 25, balance is $1680
+Player 3 rolled a 7 current square is now Square 6, balance is $2025
+Player 4 rolled a 6 current square is now Square 2, balance is $1975
+
+Player 1 rolled a 7 current square is now Square 33, balance is $1775
+Player 2 rolled a 8 current square is now Square 33, balance is $1680
+Player 3 rolled a 4 current square is now Jail Square, balance is $2025
+Player 4 rolled a 8 current square is now Jail Square, balance is $1975
+
+Player 1 rolled a 10 current square is now Square 2, balance is $1975
+Player 2 rolled a 10 current square is now Square 2, balance is $1880
+Player 3 rolled a 12 current square is now Square 22, balance is $2025
+Player 4 rolled a 11 current square is now Square 21, balance is $1975
+
+Player 1 rolled a 3 current square is now Square 5, balance is $1975
+Player 2 rolled a 8 current square is now Jail Square, balance is $1880
+Player 3 rolled a 6 current square is now Square 28, balance is $2025
+Player 4 rolled a 8 current square is now Square 29, balance is $1975
+
+Player 1 rolled a 7 current square is now Square 12, balance is $1975
+Player 2 rolled a 9 current square is now Square 19, balance is $1880
+Player 3 rolled a 8 current square is now Square 36, balance is $2025
+Player 4 rolled a 5 current square is now Square 34, balance is $1975
+
+Player 1 rolled a 9 current square is now Square 21, balance is $1975
+Player 2 rolled a 8 current square is now Square 27, balance is $1880
+Player 3 rolled a 3 current square is now Square 39, balance is $2025
+Player 4 rolled a 12 current square is now Square 5, balance is $2175
+
+Player 1 rolled a 5 current square is now Square 26, balance is $1975
+Player 2 rolled a 8 current square is now Square 35, balance is $1880
+Player 3 rolled a 7 current square is now Square 5, balance is $2225
+Player 4 rolled a 2 current square is now Square 7, balance is $2175
+
+Player 1 rolled a 12 current square is now Luxury Tax Square, balance is $1900
+Player 2 rolled a 9 current square is now Square 3, balance is $2080
+Player 3 rolled a 9 current square is now Square 14, balance is $2225
+Player 4 rolled a 5 current square is now Square 12, balance is $2175
+
+Player 1 rolled a 7 current square is now Income Tax Square, balance is $1900
+Player 2 rolled a 6 current square is now Square 9, balance is $2080
+Player 3 rolled a 10 current square is now Square 24, balance is $2225
+Player 4 rolled a 9 current square is now Square 21, balance is $2175
+
+Player 1 rolled a 6 current square is now Jail Square, balance is $1900
+Player 2 rolled a 9 current square is now Square 18, balance is $2080
+Player 3 rolled a 10 current square is now Square 34, balance is $2225
+Player 4 rolled a 6 current square is now Square 27, balance is $2175
+
+Player 1 rolled a 7 current square is now Square 17, balance is $1900
+Player 2 rolled a 6 current square is now Square 24, balance is $2080
+Player 3 rolled a 8 current square is now Square 1, balance is $2425
+Player 4 rolled a 6 current square is now Square 33, balance is $2175
+
+Player 1 rolled a 8 current square is now Square 25, balance is $1900
+Player 2 rolled a 7 current square is now Square 31, balance is $2080
+Player 3 rolled a 8 current square is now Square 9, balance is $2425
+Player 4 rolled a 8 current square is now Go Square, balance is $2375
+
+Player 1 rolled a 9 current square is now Square 34, balance is $1900
+Player 2 rolled a 8 current square is now Square 39, balance is $2080
+Player 3 rolled a 8 current square is now Square 17, balance is $2425
+Player 4 rolled a 11 current square is now Square 11, balance is $2375
+
+Player 1 rolled a 5 current square is now Square 39, balance is $1900
+Player 2 rolled a 7 current square is now Square 5, balance is $2280
+Player 3 rolled a 4 current square is now Square 21, balance is $2425
+Player 4 rolled a 3 current square is now Square 14, balance is $2375
+
+Player 1 rolled a 4 current square is now Square 2, balance is $2100
+Player 2 rolled a 10 current square is now Square 15, balance is $2280
+Player 3 rolled a 9 current square is now Jail Square, balance is $2425
+Player 4 rolled a 5 current square is now Square 19, balance is $2375
+
+Player 1 rolled a 4 current square is now Square 6, balance is $2100
+Player 2 rolled a 6 current square is now Square 21, balance is $2280
+Player 3 rolled a 11 current square is now Jail Square, balance is $2425
+Player 4 rolled a 10 current square is now Square 29, balance is $2375
+
+Player 1 rolled a 10 current square is now Square 16, balance is $2100
+Player 2 rolled a 8 current square is now Square 29, balance is $2280
+Player 3 rolled a 4 current square is now Jail Square, balance is $2425
+Player 4 rolled a 7 current square is now Square 36, balance is $2375
+
+Player 1 rolled a 9 current square is now Square 25, balance is $2100
+Player 2 rolled a 2 current square is now Square 31, balance is $2280
+Player 3 rolled a 8 current square is now Square 18, balance is $2375
+Player 4 rolled a 5 current square is now Go Square, balance is $2575
+
+Player 1 rolled a 7 current square is now Square 32, balance is $2100
+Player 2 rolled a 8 current square is now Square 39, balance is $2280
+Player 3 rolled a 6 current square is now Square 24, balance is $2375
+Player 4 rolled a 7 current square is now Square 7, balance is $2575
+
+Player 1 rolled a 6 current square is now Luxury Tax Square, balance is $2025
+Player 2 rolled a 4 current square is now Square 2, balance is $2480
+Player 3 rolled a 5 current square is now Square 29, balance is $2375
+Player 4 rolled a 5 current square is now Square 12, balance is $2575
+
+Player 1 rolled a 6 current square is now Square 3, balance is $2225
+Player 2 rolled a 6 current square is now Square 8, balance is $2480
+Player 3 rolled a 9 current square is now Luxury Tax Square, balance is $2300
+Player 4 rolled a 6 current square is now Square 18, balance is $2575
+
+Player 1 rolled a 7 current square is now Jail Square, balance is $2225
+Player 2 rolled a 7 current square is now Square 15, balance is $2480
+Player 3 rolled a 5 current square is now Square 2, balance is $2500
+Player 4 rolled a 11 current square is now Square 29, balance is $2575
+
+Player 1 rolled a 6 current square is now Square 16, balance is $2225
+Player 2 rolled a 3 current square is now Square 18, balance is $2480
+Player 3 rolled a 10 current square is now Square 12, balance is $2500
+Player 4 rolled a 11 current square is now Square 40, balance is $2575
+
+Player 1 rolled a 7 current square is now Square 23, balance is $2225
+Player 2 rolled a 8 current square is now Square 26, balance is $2480
+Player 3 rolled a 4 current square is now Square 16, balance is $2500
+Player 4 rolled a 5 current square is now Income Tax Square, balance is $2575
+
+Player 1 rolled a 7 current square is now Jail Square, balance is $2225
+Player 2 rolled a 8 current square is now Square 34, balance is $2480
+Player 3 rolled a 6 current square is now Square 22, balance is $2500
+Player 4 rolled a 10 current square is now Square 14, balance is $2575
+
+Player 1 rolled a 6 current square is now Jail Square, balance is $2225
+Player 2 rolled a 8 current square is now Square 1, balance is $2680
+Player 3 rolled a 7 current square is now Square 29, balance is $2500
+Player 4 rolled a 5 current square is now Square 19, balance is $2575
+
+Player 1 rolled a 5 current square is now Jail Square, balance is $2225
+Player 2 rolled a 6 current square is now Square 7, balance is $2680
+Player 3 rolled a 2 current square is now Square 31, balance is $2500
+Player 4 rolled a 10 current square is now Square 29, balance is $2575
+
+Player 1 rolled a 6 current square is now Square 16, balance is $2175
+Player 2 rolled a 10 current square is now Square 17, balance is $2680
+Player 3 rolled a 8 current square is now Square 39, balance is $2500
+Player 4 rolled a 8 current square is now Square 37, balance is $2575
+
+Player 1 rolled a 10 current square is now Square 26, balance is $2175
+Player 2 rolled a 3 current square is now Square 20, balance is $2680
+Player 3 rolled a 5 current square is now Square 3, balance is $2700
+Player 4 rolled a 8 current square is now Income Tax Square, balance is $2575
+
+Player 1 rolled a 4 current square is now Jail Square, balance is $2175
+Player 2 rolled a 7 current square is now Square 27, balance is $2680
+Player 3 rolled a 8 current square is now Square 11, balance is $2700
+Player 4 rolled a 5 current square is now Square 9, balance is $2575
+
+Player 1 rolled a 2 current square is now Square 12, balance is $2175
+Player 2 rolled a 4 current square is now Square 31, balance is $2680
+Player 3 rolled a 10 current square is now Square 21, balance is $2700
+Player 4 rolled a 6 current square is now Square 15, balance is $2575
+
+Player 1 rolled a 11 current square is now Square 12, balance is $2175
+Player 2 rolled a 11 current square is now Square 1, balance is $2880
+Player 3 rolled a 7 current square is now Square 28, balance is $2700
+Player 4 rolled a 9 current square is now Square 24, balance is $2575
+
+Player 1 rolled a 9 current square is now Square 21, balance is $2125
+Player 2 rolled a 2 current square is now Square 3, balance is $2880
+Player 3 rolled a 7 current square is now Square 35, balance is $2700
+Player 4 rolled a 8 current square is now Square 32, balance is $2575
+
+Player 1 rolled a 9 current square is now Jail Square, balance is $2125
+Player 2 rolled a 8 current square is now Square 11, balance is $2880
+Player 3 rolled a 5 current square is now Square 40, balance is $2700
+Player 4 rolled a 9 current square is now Go Square, balance is $2775
+
+Player 1 rolled a 4 current square is now Jail Square, balance is $2125
+Player 2 rolled a 8 current square is now Square 19, balance is $2880
+Player 3 rolled a 2 current square is now Square 1, balance is $2900
+Player 4 rolled a 3 current square is now Square 3, balance is $2775
+
+Player 1 rolled a 8 current square is now Jail Square, balance is $2125
+Player 2 rolled a 6 current square is now Square 25, balance is $2880
+Player 3 rolled a 8 current square is now Square 9, balance is $2900
+Player 4 rolled a 10 current square is now Square 13, balance is $2775
+
+Player 1 rolled a 5 current square is now Square 15, balance is $2075
+Player 2 rolled a 9 current square is now Square 34, balance is $2880
+Player 3 rolled a 6 current square is now Square 15, balance is $2900
+Player 4 rolled a 9 current square is now Square 22, balance is $2775
+
+Player 1 rolled a 7 current square is now Square 22, balance is $2075
+Player 2 rolled a 11 current square is now Income Tax Square, balance is $2880
+Player 3 rolled a 5 current square is now Square 20, balance is $2900
+Player 4 rolled a 10 current square is now Square 32, balance is $2775
+
+Player 1 rolled a 3 current square is now Square 25, balance is $2075
+Player 2 rolled a 8 current square is now Square 12, balance is $2880
+Player 3 rolled a 6 current square is now Square 26, balance is $2900
+Player 4 rolled a 8 current square is now Square 40, balance is $2775
+
+Player 1 rolled a 9 current square is now Square 34, balance is $2075
+Player 2 rolled a 7 current square is now Square 19, balance is $2880
+Player 3 rolled a 9 current square is now Square 35, balance is $2900
+Player 4 rolled a 10 current square is now Square 9, balance is $2975
+
+Player 1 rolled a 6 current square is now Square 40, balance is $2075
+Player 2 rolled a 5 current square is now Square 24, balance is $2880
+Player 3 rolled a 10 current square is now Income Tax Square, balance is $2900
+Player 4 rolled a 12 current square is now Square 21, balance is $2975
+
+Player 1 rolled a 9 current square is now Square 8, balance is $2275
+Player 2 rolled a 6 current square is now Jail Square, balance is $2880
+Player 3 rolled a 3 current square is now Square 7, balance is $2900
+Player 4 rolled a 6 current square is now Square 27, balance is $2975
+
+Player 1 rolled a 11 current square is now Square 19, balance is $2275
+Player 2 rolled a 5 current square is now Jail Square, balance is $2880
+Player 3 rolled a 8 current square is now Square 15, balance is $2900
+Player 4 rolled a 4 current square is now Square 31, balance is $2975
+
+Player 1 rolled a 10 current square is now Square 29, balance is $2275
+Player 2 rolled a 8 current square is now Jail Square, balance is $2880
+Player 3 rolled a 5 current square is now Square 20, balance is $2900
+Player 4 rolled a 6 current square is now Square 37, balance is $2975
+
+Player 1 rolled a 3 current square is now Square 32, balance is $2275
+Player 2 rolled a 7 current square is now Square 17, balance is $2830
+Player 3 rolled a 7 current square is now Square 27, balance is $2900
+Player 4 rolled a 4 current square is now Go Square, balance is $3175
+
+Player 1 rolled a 3 current square is now Square 35, balance is $2275
+Player 2 rolled a 4 current square is now Square 21, balance is $2830
+Player 3 rolled a 5 current square is now Square 32, balance is $2900
+Player 4 rolled a 6 current square is now Square 6, balance is $3175
+
+Player 1 rolled a 12 current square is now Square 6, balance is $2475
+Player 2 rolled a 10 current square is now Square 31, balance is $2830
+Player 3 rolled a 6 current square is now Luxury Tax Square, balance is $2825
+Player 4 rolled a 11 current square is now Square 17, balance is $3175
+
+Player 1 rolled a 9 current square is now Square 15, balance is $2475
+Player 2 rolled a 12 current square is now Square 2, balance is $3030
+Player 3 rolled a 5 current square is now Square 2, balance is $3025
+Player 4 rolled a 9 current square is now Square 26, balance is $3175
+
+Player 1 rolled a 4 current square is now Square 19, balance is $2475
+Player 2 rolled a 7 current square is now Square 9, balance is $3030
+Player 3 rolled a 7 current square is now Square 9, balance is $3025
+Player 4 rolled a 4 current square is now Jail Square, balance is $3175
+
+Player 1 rolled a 10 current square is now Square 29, balance is $2475
+Player 2 rolled a 6 current square is now Square 15, balance is $3030
+Player 3 rolled a 6 current square is now Square 15, balance is $3025
+Player 4 rolled a 4 current square is now Jail Square, balance is $3175
+
+Player 1 rolled a 7 current square is now Square 36, balance is $2475
+Player 2 rolled a 4 current square is now Square 19, balance is $3030
+Player 3 rolled a 8 current square is now Square 23, balance is $3025
+Player 4 rolled a 7 current square is now Jail Square, balance is $3175
+
+Player 1 rolled a 3 current square is now Square 39, balance is $2475
+Player 2 rolled a 10 current square is now Square 29, balance is $3030
+Player 3 rolled a 4 current square is now Square 27, balance is $3025
+Player 4 rolled a 6 current square is now Square 16, balance is $3125
+
+Player 1 rolled a 7 current square is now Square 5, balance is $2675
+Player 2 rolled a 2 current square is now Square 31, balance is $3030
+Player 3 rolled a 6 current square is now Square 33, balance is $3025
+Player 4 rolled a 2 current square is now Square 18, balance is $3125
+
+Player 1 rolled a 7 current square is now Square 12, balance is $2675
+Player 2 rolled a 5 current square is now Square 36, balance is $3030
+Player 3 rolled a 3 current square is now Square 36, balance is $3025
+Player 4 rolled a 5 current square is now Square 23, balance is $3125
+
+Player 1 rolled a 6 current square is now Square 18, balance is $2675
+Player 2 rolled a 10 current square is now Square 5, balance is $3230
+Player 3 rolled a 2 current square is now Luxury Tax Square, balance is $2950
+Player 4 rolled a 7 current square is now Jail Square, balance is $3125
+
+Player 1 rolled a 7 current square is now Square 25, balance is $2675
+Player 2 rolled a 8 current square is now Square 13, balance is $3230
+Player 3 rolled a 3 current square is now Go Square, balance is $3150
+Player 4 rolled a 11 current square is now Jail Square, balance is $3125
+
+Player 1 rolled a 2 current square is now Square 27, balance is $2675
+Player 2 rolled a 6 current square is now Square 19, balance is $3230
+Player 3 rolled a 10 current square is now Jail Square, balance is $3150
+Player 4 rolled a 4 current square is now Jail Square, balance is $3125
+
+Player 1 rolled a 12 current square is now Square 39, balance is $2675
+Player 2 rolled a 8 current square is now Square 27, balance is $3230
+Player 3 rolled a 6 current square is now Square 16, balance is $3150
+Player 4 rolled a 5 current square is now Square 15, balance is $3075
+
+Player 1 rolled a 6 current square is now Income Tax Square, balance is $2675
+Player 2 rolled a 10 current square is now Square 37, balance is $3230
+Player 3 rolled a 3 current square is now Square 19, balance is $3150
+Player 4 rolled a 4 current square is now Square 19, balance is $3075
+
+Player 1 rolled a 6 current square is now Jail Square, balance is $2675
+Player 2 rolled a 3 current square is now Square 40, balance is $3230
+Player 3 rolled a 10 current square is now Square 29, balance is $3150
+Player 4 rolled a 11 current square is now Jail Square, balance is $3075
+
+Player 1 rolled a 5 current square is now Square 15, balance is $2675
+Player 2 rolled a 6 current square is now Square 5, balance is $3430
+Player 3 rolled a 7 current square is now Square 36, balance is $3150
+Player 4 rolled a 7 current square is now Jail Square, balance is $3075
+
+Player 1 rolled a 6 current square is now Square 21, balance is $2675
+Player 2 rolled a 6 current square is now Square 11, balance is $3430
+Player 3 rolled a 7 current square is now Square 2, balance is $3350
+Player 4 rolled a 7 current square is now Jail Square, balance is $3075
+
+Player 1 rolled a 8 current square is now Square 29, balance is $2675
+Player 2 rolled a 11 current square is now Square 22, balance is $3430
+Player 3 rolled a 10 current square is now Square 12, balance is $3350
+Player 4 rolled a 9 current square is now Square 19, balance is $3025
+
+Player 1 rolled a 12 current square is now Go Square, balance is $2875
+Player 2 rolled a 8 current square is now Jail Square, balance is $3430
+Player 3 rolled a 11 current square is now Square 23, balance is $3350
+Player 4 rolled a 7 current square is now Square 26, balance is $3025
+
+Player 1 rolled a 7 current square is now Square 7, balance is $2875
+Player 2 rolled a 8 current square is now Jail Square, balance is $3430
+Player 3 rolled a 3 current square is now Square 26, balance is $3350
+Player 4 rolled a 6 current square is now Square 32, balance is $3025
+
+Player 1 rolled a 7 current square is now Square 14, balance is $2875
+Player 2 rolled a 10 current square is now Jail Square, balance is $3430
+Player 3 rolled a 9 current square is now Square 35, balance is $3350
+Player 4 rolled a 7 current square is now Square 39, balance is $3025
+
+Player 1 rolled a 10 current square is now Square 24, balance is $2875
+Player 2 rolled a 5 current square is now Square 15, balance is $3380
+Player 3 rolled a 7 current square is now Square 1, balance is $3550
+Player 4 rolled a 4 current square is now Square 2, balance is $3225
+
+Player 1 rolled a 10 current square is now Square 34, balance is $2875
+Player 2 rolled a 7 current square is now Square 22, balance is $3380
+Player 3 rolled a 4 current square is now Square 5, balance is $3550
+Player 4 rolled a 7 current square is now Square 9, balance is $3225
+
+Player 1 rolled a 8 current square is now Square 1, balance is $3075
+Player 2 rolled a 5 current square is now Square 27, balance is $3380
+Player 3 rolled a 6 current square is now Square 11, balance is $3550
+Player 4 rolled a 5 current square is now Square 14, balance is $3225
+
+Player 1 rolled a 10 current square is now Square 11, balance is $3075
+Player 2 rolled a 9 current square is now Square 36, balance is $3380
+Player 3 rolled a 5 current square is now Square 16, balance is $3550
+Player 4 rolled a 4 current square is now Square 18, balance is $3225
+
+Player 1 rolled a 6 current square is now Square 17, balance is $3075
+Player 2 rolled a 5 current square is now Go Square, balance is $3580
+Player 3 rolled a 8 current square is now Square 24, balance is $3550
+Player 4 rolled a 8 current square is now Square 26, balance is $3225
+
+Player 1 rolled a 12 current square is now Square 29, balance is $3075
+Player 2 rolled a 9 current square is now Square 9, balance is $3580
+Player 3 rolled a 12 current square is now Square 36, balance is $3550
+Player 4 rolled a 11 current square is now Square 37, balance is $3225
+
+Player 1 rolled a 5 current square is now Square 34, balance is $3075
+Player 2 rolled a 9 current square is now Square 18, balance is $3580
+Player 3 rolled a 7 current square is now Square 2, balance is $3750
+Player 4 rolled a 7 current square is now Square 3, balance is $3425
+
+Player 1 rolled a 5 current square is now Square 39, balance is $3075
+Player 2 rolled a 3 current square is now Square 21, balance is $3580
+Player 3 rolled a 5 current square is now Square 7, balance is $3750
+Player 4 rolled a 4 current square is now Square 7, balance is $3425
+
+Player 1 rolled a 4 current square is now Square 2, balance is $3275
+Player 2 rolled a 8 current square is now Square 29, balance is $3580
+Player 3 rolled a 8 current square is now Square 15, balance is $3750
+Player 4 rolled a 6 current square is now Square 13, balance is $3425
+
+Player 1 rolled a 4 current square is now Square 6, balance is $3275
+Player 2 rolled a 7 current square is now Square 36, balance is $3580
+Player 3 rolled a 11 current square is now Square 26, balance is $3750
+Player 4 rolled a 5 current square is now Square 18, balance is $3425
+
+Player 1 rolled a 6 current square is now Square 12, balance is $3275
+Player 2 rolled a 3 current square is now Square 39, balance is $3580
+Player 3 rolled a 5 current square is now Square 31, balance is $3750
+Player 4 rolled a 8 current square is now Square 26, balance is $3425
+
+Player 1 rolled a 9 current square is now Square 21, balance is $3275
+Player 2 rolled a 5 current square is now Square 3, balance is $3780
+Player 3 rolled a 5 current square is now Square 36, balance is $3750
+Player 4 rolled a 7 current square is now Square 33, balance is $3425
+
+Player 1 rolled a 8 current square is now Square 29, balance is $3275
+Player 2 rolled a 6 current square is now Square 9, balance is $3780
+Player 3 rolled a 5 current square is now Go Square, balance is $3950
+Player 4 rolled a 6 current square is now Square 39, balance is $3425
+
+Player 1 rolled a 6 current square is now Square 35, balance is $3275
+Player 2 rolled a 9 current square is now Square 18, balance is $3780
+Player 3 rolled a 8 current square is now Square 8, balance is $3950
+Player 4 rolled a 7 current square is now Square 5, balance is $3625
+
+Player 1 rolled a 10 current square is now Income Tax Square, balance is $3275
+Player 2 rolled a 5 current square is now Square 23, balance is $3780
+Player 3 rolled a 3 current square is now Square 11, balance is $3950
+Player 4 rolled a 7 current square is now Square 12, balance is $3625
+
+Player 1 rolled a 11 current square is now Square 15, balance is $3275
+Player 2 rolled a 6 current square is now Square 29, balance is $3780
+Player 3 rolled a 6 current square is now Square 17, balance is $3950
+Player 4 rolled a 3 current square is now Square 15, balance is $3625
+
+
+Player 3 is the winner with $3950
